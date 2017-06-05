@@ -7,8 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-Oleh : Amaliyah
-       2014157020
+Oleh : Amaliyah / 2014157020
 
 ## About Laravel
 
